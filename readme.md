@@ -21,4 +21,4 @@ pnpm dev
 |ruta| descripción|
 |---|---|
 | Componentes| Raíz de los componentes |
-| Componentes/lit/button | Componente de botón de whatsapp |
+| Componentes/lit/button | botón de whatsapp |
