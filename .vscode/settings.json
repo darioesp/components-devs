@@ -1,0 +1,41 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact"
+	],
+	"eslint.alwaysShowStatus": true,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "es5",
+	"prettier.arrowParens": "avoid",
+	"prettier.printWidth": 120,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.semi": true,
+	"prettier.bracketSpacing": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.requireConfig": false,
+	"prettier.vueIndentScriptAndStyle": false,
+	"prettier.proseWrap": "preserve",
+	"prettier.endOfLine": "auto",
+	"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"cSpell.language": "es,es-ES,en,en-US,en-GB",
+	"cSpell.enableFiletypes": [
+		"javascript",
+		"html",
+		"css",
+		"json",
+		"markdown",
+		"php",
+		"xml",
+		"yaml",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact"
+	]
+}
